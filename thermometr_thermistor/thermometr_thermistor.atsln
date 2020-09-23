@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "thermometr_thermistor", "thermometr_thermistor\thermometr_thermistor.cproj", "{17D05F92-A6D8-40A8-9EA8-A15BF6719541}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17D05F92-A6D8-40A8-9EA8-A15BF6719541}.Debug|AVR.ActiveCfg = Debug|AVR
+		{17D05F92-A6D8-40A8-9EA8-A15BF6719541}.Debug|AVR.Build.0 = Debug|AVR
+		{17D05F92-A6D8-40A8-9EA8-A15BF6719541}.Release|AVR.ActiveCfg = Release|AVR
+		{17D05F92-A6D8-40A8-9EA8-A15BF6719541}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

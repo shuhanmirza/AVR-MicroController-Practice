@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "motor_control_by_temp", "motor_control_by_temp\motor_control_by_temp.cproj", "{8EBF1B1B-B7A5-4E23-BA45-67FB314567EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EBF1B1B-B7A5-4E23-BA45-67FB314567EB}.Debug|AVR.ActiveCfg = Debug|AVR
+		{8EBF1B1B-B7A5-4E23-BA45-67FB314567EB}.Debug|AVR.Build.0 = Debug|AVR
+		{8EBF1B1B-B7A5-4E23-BA45-67FB314567EB}.Release|AVR.ActiveCfg = Release|AVR
+		{8EBF1B1B-B7A5-4E23-BA45-67FB314567EB}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
